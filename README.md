@@ -1,5 +1,7 @@
 # spark-analyzer
 
+**[中文文档](README_zh.md)** | English
+
 Unified Spark report analyzer for Minecraft servers — raw JSON batch processing + protobuf flame graph decoding.
 
 ## Features
