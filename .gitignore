@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pyo
+_generated/
+*.egg-info/
+dist/
+build/
+.eggs/
+*.so
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+.env
